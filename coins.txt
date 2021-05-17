@@ -1,0 +1,200 @@
+Bitcoin BTC
+Ethereum ETH
+Binance Coin BNB
+Cardano	ADA
+Dogecoin    DOGE
+Tether	USDT
+XRP	XRP
+Polkadot	DOT
+Internet Computer	ICP
+Bitcoin Cash	BCH
+Uniswap	UNI
+Litecoin	LTC
+Chainlink	LINK
+Stellar	XLM
+USD Coin	USDC
+Solana	SOL
+VeChain	VET
+Ethereum Classic	ETC
+THETA	THETA
+Polygon	MATIC
+EOS	EOS
+TRON	TRX
+Wrapped Bitcoin	WBTC
+Binance USD	BUSD
+Filecoin	FIL
+Aave	AAVE
+Monero	XMR
+Neo	NEO
+SHIBA INU	SHIB
+Terra	LUNA
+Klaytn	KLAY
+Bitcoin SV	BSV
+IOTA	MIOTA
+Kusama	KSM
+Cosmos	ATOM
+Huobi Token	HT
+FTX Token	FTT
+Dai	DAI
+Tezos	XTZ
+PancakeSwap	CAKE
+THORChain	RUNE
+Maker	MKR
+Avalanche	AVAX
+Algorand	ALGO
+Crypto.com Coin	CRO
+BitTorrent	BTT
+Compound	COMP
+UNUS SED LEO	LEO
+Dash	DASH
+Waves	WAVES
+Zcash	ZEC
+Elrond	EGLD
+Revain	REV
+Hedera Hashgraph	HBAR
+NEM	XEM
+yearn.finance	YFI
+Bitcoin BEP2	BTCB
+Chiliz	CHZ
+SushiSwap	SUSHI
+Decred	DCR
+NEAR Protocol	NEAR
+Synthetix	SNX
+TerraUSD	UST
+Zilliqa	ZIL
+Telcoin	TEL
+Holo	HOT
+Nexo	NEXO
+Theta Fuel	TFUEL
+Qtum	QTUM
+Decentraland	MANA
+OKB	OKB
+Basic Attention Token	BAT
+Celsius	CEL
+The Graph	GRT
+Stacks	STX
+Fantom	FTM
+Enjin Coin	ENJ
+Bitcoin Gold	BTG
+Ontology	ONT
+DigiByte	DGB
+Nano	NANO
+Harmony	ONE
+UMA	UMA
+Horizen	ZEN
+Siacoin	SC
+BakeryToken	BAKE
+0x	ZRX
+Bancor	BNT
+Celo	CELO
+OMG Network	OMG
+Paxos Standard	PAX
+ICON	ICX
+Helium	HNT
+Ravencoin	RVN
+Curve DAO Token	CRV
+TrueUSD	TUSD
+SwissBorg	CHSB
+Ankr	ANKR
+Reserve Rights	RSR
+KuCoin Token	KCS
+Venus	XVS
+HUSD	HUSD
+1inch	1INCH
+IOST	IOST
+Arweave	AR
+Verge	XVG
+Bitcoin Diamond	BCD
+Voyager Token	VGX
+Ren	REN
+Lisk	LSK
+Flow	FLOW
+Loopring	LRC
+iExec RLC	RLC
+Dent	DENT
+GateToken	GT
+WazirX	WRX
+Livepeer	LPT
+Quant	QNT
+Nervos Network	CKB
+Bitcoin Standard Hashrate Token	BTCST
+Status	SNT
+Kyber Network Crystal Legacy	KNC
+Alpha Finance Lab	ALPHA
+Conflux Network	CFX
+renBTC	RENBTC
+Serum	SRM
+SKALE Network	SKL
+Mdex	MDX
+Reef	REEF
+BTMX	BTMX
+Ocean Protocol	OCEAN
+VeThor Token	VTHO
+Storj	STORJ
+Neutrino USD	USDN
+Energy Web Token	EWT
+Cartesi	CTSI
+Golem	GLM
+Prometeus	PROM
+Wootrade	WOO
+Ergo	ERG
+Stratis	STRAX
+Injective Protocol	INJ
+Balancer	BAL
+Origin Protocol	OGN
+Augur	REP
+Swipe	SXP
+Numeraire	NMR
+Fetch.ai	FET
+Kava.io	KAVA
+Gnosis	GNO
+IoTeX	IOTX
+NKN	NKN
+FUNToken	FUN
+StormX	STMX
+Ardor	ARDR
+DODO	DODO
+SingularityNET	AGI
+BitShares	BTS
+Steem	STEEM
+Aragon	ANT
+Band Protocol	BAND
+Celer Network	CELR
+WAX	WAXP
+ABBC Coin	ABBC
+Civic	CVC
+WINkLink	WIN
+ZKSwap	ZKS
+Wanchain	WAN
+The Sandbox	SAND
+COTI	COTI
+Komodo	KMD
+Ampleforth	AMPL
+MCO	MCO
+Haven Protocol	XHV
+Utrust	UTK
+NuCypher	NU
+Sora	XOR
+MaidSafeCoin	MAID
+Orbs	ORBS
+Unibright	UBT
+ZB Token	ZB
+Dogelon Mars	ELON
+Bytom	BTM
+Velas	VLX
+MediBloc	MED
+Badger DAO	BADGER
+JUST	JST
+Vai	VAI
+Travala.com	AVA
+MyNeighborAlice	ALICE
+Kin	KIN
+Phala Network	PHA
+Function X	FX
+TrustSwap	SWAP
+Uquid Coin	UQC
+Orchid	OXT
+Polkastarter	POLS
+Metal	MTL
+OriginTrail	TRAC
+Syscoin	SYS
