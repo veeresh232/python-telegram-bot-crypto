@@ -24,6 +24,7 @@ def start(message):
 def hello(message):    
     bot.send_message(message.chat.id, 'Hello '+message.from_user.first_name)
 def coin_request(message):
+    print(message.text+" "+message.from_user.first_name)
     request = message.text.split()
     if request[0].lower() in greeting_words:
         bot.send_message(message.chat.id,'Hello '+message.from_user.first_name+"!")
@@ -31,13 +32,14 @@ def coin_request(message):
     elif request[0].lower() in ['thanks','thank','awesome','super']:
         bot.send_message(message.chat.id,"You're Welcome "+message.from_user.first_name+"! \N{hugging face}" )
     elif len(request) < 2 or request[0].lower() not in ['price']:
-        bot.send_message(message.chat.id,"Hmmm! I'm not sure if I understand this...")
+        bot.send_message(message.chat.id,"Hmmm! I'm not sure if I understand this \N{thinking face}")
         return False
     else:
         return True
 
 @bot.message_handler(func=coin_request)
 def send_price(message):
+    print(message.text+" "+message.from_user.first_name)
     request = message.text.split()[1].lower()
     if(coin_data.get(request) != None):
         request = coin_data.get(request)
