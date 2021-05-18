@@ -24,7 +24,7 @@ def start(message):
 def hello(message):    
     bot.send_message(message.chat.id, 'Hello '+message.from_user.first_name)
 def coin_request(message):
-    print(message.text+" "+message.from_user.first_name)
+    print(message.text+" "+message.from_user.first_name+" Id:"+message.chat.id)
     request = message.text.split()
     if request[0].lower() in greeting_words:
         bot.send_message(message.chat.id,'Hello '+message.from_user.first_name+"!")
