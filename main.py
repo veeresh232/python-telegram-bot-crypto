@@ -39,7 +39,7 @@ def coin_request(message):
 
 @bot.message_handler(func=coin_request)
 def send_price(message):
-    print(message.text+" "+message.from_user.first_name)
+    print(message.text+" "+message.from_user.first_name+" Id:"+message.chat.id)
     request = message.text.split()[1].lower()
     if(coin_data.get(request) != None):
         request = coin_data.get(request)
