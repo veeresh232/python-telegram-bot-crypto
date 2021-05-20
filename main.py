@@ -19,7 +19,7 @@ def greet(message):
 def start(message):
     username = message.from_user.first_name
     print(username)    
-    bot.send_message(message.chat.id,'Welcome '+username+'! \N{hugging face} \n I will tell you the current price of your favourite crypto coins \U0001FA99 among all other 200 crypto coins!! \U0001F450 \n You can get started by sending the command in following sequence:\n "price coin_name"')
+    bot.send_message(message.chat.id,'Welcome '+username+'! \N{hugging face} \n I will tell you the current price of your favourite crypto coins \U0001FA99 among all other 200 crypto coins!! \U0001F450 \n You can get started by sending the command in following sequence:\n price coin_name \n Ex: price bitcoin')
 @bot.message_handler(commands=['hello'])
 def hello(message):    
     bot.send_message(message.chat.id, 'Hello '+message.from_user.first_name)
